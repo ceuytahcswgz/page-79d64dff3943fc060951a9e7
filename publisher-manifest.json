@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "246273b7bf39850fd74ddc73",
+  "owner": "ceuytahcswgz",
+  "repo": "page-79d64dff3943fc060951a9e7",
+  "title": "SpeedOnline",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "79d64dff3943fc060951a9e7",
+      "a": "SpeedOnline",
+      "b": "",
+      "entity": "SpeedOnline",
+      "brand": "SpeedOnline",
+      "separator": "",
+      "path": "index.html",
+      "hash": "50d55d7db1aeb94283f90c954665efc7dc9b45ba51c55f70ded76152890ab97a",
+      "content": {
+        "keyword1": "SpeedOnline",
+        "keyword2": "",
+        "primary_entity": "SpeedOnline",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "SpeedOnline 是面向跨境访问的高速 VPN 梯子与机场订阅服务官网，提供多端客户端下载、流媒体解锁与游戏加速节点，帮助用户稳定连接全球网络。",
+          "AI_DESCRIPTION": "SpeedOnline 是面向跨境访问的高速 VPN 梯子与机场订阅服务官网，提供多端客户端下载、流媒体解锁与游戏加速节点，帮助用户稳定连接全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0}*{box-sizing:border-box}html{font-size:16px}body{font-family:system-ui,-apple-system,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#eaf6ff;line-height:1.75;overflow-x:hidden}a{color:#1ee3ff;text-decoration:none}a:hover{color:#7ff0ff}img{max-width:100%}header,main,footer{width:100%}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#08182a;border-bottom:1px solid #16324d}.nav{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;justify-content:space-between;padding:14px 0}.logo{font-weight:700;font-size:1.2rem;color:#1ee3ff}.nav-links{display:flex;flex-wrap:wrap;gap:10px 16px}.nav-links a{color:#c5dceb;font-size:0.95rem}.hero{padding:84px 0 56px}.hero h1{font-size:2.35rem;line-height:1.28;color:#fff;font-weight:750;margin:0 0 18px;letter-spacing:0.01em}.lead{font-size:1.08rem;color:#9ec0d6;max-width:38em;margin:0 0 22px}.meta-row{color:#8ba3b8;font-size:0.95rem}.pill{display:inline-block;margin:4px 8px 0 0;padding:4px 10px;border:1px solid #1a4a6e;border-radius:999px;color:#7fdfff;font-size:0.85rem}section{padding:32px 0;border-bottom:1px solid #123049}h2{font-size:1.5rem;color:#1ee3ff;margin:0 0 14px}h3{font-size:1.12rem;color:#9be8ff;margin:18px 0 8px}p{margin:0 0 12px}ul,ol{margin:0 0 12px;padding-left:1.25em}li{margin:6px 0}.plans{display:flex;flex-direction:column;gap:14px}.plan{background:#0d243c;border:1px solid #1a4a6e;border-radius:12px;padding:18px 18px 16px;flex:1}.plan.featured{border-color:#1ee3ff}.badge{display:inline-block;background:#123a55;color:#1ee3ff;font-size:0.78rem;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.55rem;color:#fff;font-weight:700;margin:4px 0}.annual{color:#8fd4ea;font-size:0.92rem;margin-bottom:10px}.grid2{display:flex;flex-direction:column;gap:8px}details{background:#0d243c;border:1px solid #1a4a6e;border-radius:8px;padding:12px 14px;margin:0 0 10px}summary{font-weight:650;color:#fff}details p{margin:10px 0 0;color:#c5dceb}.ad{background:#0a1f33;border:1px dashed #1ee3ff;border-radius:10px;padding:16px;color:#b8d4e8;margin:0 0 12px}.friends a,.foot-links a{display:inline-block;margin:0 12px 8px 0;color:#7fdfff}footer{padding:28px 0 40px;color:#8ba3b8;font-size:0.92rem}.note{color:#8ba3b8;font-size:0.92rem}#faq{padding-top:40px;padding-bottom:40px}@media (min-width:800px){.hero{padding:108px 0 72px}.hero h1{font-size:3rem}.plans{flex-direction:row;align-items:stretch}.grid2{flex-direction:row}.grid2>div{flex:1}}</style><header><div class=\"wrap nav\"><a class=\"logo\" href=\"#top\">SpeedOnline</a><nav class=\"nav-links\" aria-label=\"页面导航\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main id=\"top\"><div class=\"wrap hero\"><h1>SpeedOnline</h1><p class=\"lead\">SpeedOnline 官方网站提供高速 VPN 梯子、机场订阅与多端加速器客户端下载。面向跨境办公、流媒体与游戏加速，节点覆盖亚太与欧美，支持 IPLC 专线与原生流媒体解锁。</p><p class=\"meta-row\"><span class=\"pill\">官网下载</span><span class=\"pill\">机场订阅</span><span class=\"pill\">网络加速器</span><span class=\"pill\">多端客户端</span></p></div><section id=\"intro\"><div class=\"wrap\"><h2>品牌简介</h2><p>SpeedOnline 是一套以订阅为核心的网络加速服务，也常被用户称为 SpeedOnline 机场或 SpeedOnline VPN。它把加密隧道、智能分流与多地区节点整合到统一订阅里，用户在客户端导入一次即可按场景切换线路。</p><p>与只提供单一出口的工具不同，SpeedOnline 同时面向日常浏览、会议协作、4K 流媒体与低延迟游戏。基础线路适合网页与轻量通讯，旗舰与团队线路提供更高带宽、原生解锁和专线优化。本站是 SpeedOnline 官方网站，套餐说明、使用方法和客户端下载入口均集中在此页，避免通过不明来源获取配置。</p><h3>官方身份与使用边界</h3><p>请以本站公布的套餐、流量额度与设备数量为准。SpeedOnline 用于合法的跨境访问、远程办公与内容加速，不提供破解、入侵或绕过他人系统的能力。若你的网络环境对加密流量有额外合规要求，请先确认本地政策后再订阅。</p></div></section><section id=\"plans\"><div class=\"wrap\"><h2>机场订阅套餐</h2><p>三档套餐按流量、同时在线设备和线路质量区分。年付可锁定全年价格。以下为官网公示方案，便于对照选择后再下载客户端导入订阅。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">流量按实际转发计量，当月未用完不结转。设备数按同时在线会话统计，超出后新连接会被拒绝，已连接设备不受影响。</p></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"grid2\"><div><h3>跨境办公与会议</h3><p>远程桌面、邮件网关与视频会议对稳定性和延迟敏感。SpeedOnline 将办公域名走专线或低丢包节点，本地视频与内网打印仍可直连，减少全量代理带来的卡顿。</p><h3>流媒体与内容站点</h3><p>旗舰版强调原生流媒体解锁，适合点播、直播与字幕站点。建议按片源地区选择对应出口，而不是始终固定同一节点，以降低缓冲与验证失败。</p></div><div><h3>游戏加速</h3><p>IPLC 与游戏优化线路针对匹配、登录与对战端口做了转发优化，适合需要稳定延迟的玩家。团队版可把工作室多台设备纳入同一订阅，统一路由策略。</p><h3>差旅与公共网络</h3><p>酒店、展会与校园网环境复杂时，先连接 SpeedOnline 再访问工作系统，可降低中间人窥探风险，并避开部分公共 Wi-Fi 对境外站点的干扰。</p></div></div></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><p>从官网完成订阅到成功加速，通常只需五步。请按顺序操作，避免先下载第三方修改版客户端。</p><ol><li>在套餐区确认流量与设备数量，选择基础版、旗舰版或团队版。</li><li>完成订阅后进入用户中心复制订阅链接，或下载官方配置文件。</li><li>打开本页「客户端下载」对应系统的指引，安装官方或兼容核心。</li><li>在客户端中导入订阅，更新节点列表，选择靠近目标站点的线路。</li><li>开启连接后访问目标服务；如需分流，为国内应用保留直连规则。</li></ol><h3>分流与节点选择建议</h3><p>网页浏览可选普通线路；会议与游戏优先 IPLC 或标注低延迟的专线；流媒体选择该平台常见的解锁地区。若某一节点证书或延迟异常，更新订阅后再换线，不要反复重装应用。</p></div></section><section id=\"download\"><div class=\"wrap\"><h2>客户端下载</h2><p>SpeedOnline 官方下载入口按系统分类。以下链接指向本页说明锚点，安装包请通过用户中心或官方渠道获取，避免来路不明的加速器安装包。</p><h3>桌面端</h3><ul><li><a href=\"#download\">Windows 客户端</a>：适合导入订阅、规则分流与系统代理。</li><li><a href=\"#download\">macOS 客户端</a>：支持菜单栏快捷切换与分应用代理。</li><li><a href=\"#download\">Linux 兼容核心</a>：可配合命令行或图形面板使用同一订阅。</li></ul><h3>移动端与扩展</h3><ul><li><a href=\"#download\">Android 客户端</a>：建议开启分应用代理，减少耗电。</li><li><a href=\"#download\">iOS 配置说明</a>：通过受支持的应用导入订阅，按系统提示添加描述文件或隧道。</li><li><a href=\"#download\">浏览器扩展配合</a>：仅作辅助分流，完整加密仍以系统客户端为准。</li></ul><p class=\"note\">同一订阅可在套餐允许的设备数内使用。更换设备前请先在旧设备断开，以免占用在线名额。</p></div></section><section id=\"nodes\"><div class=\"wrap\"><h2>节点与加速能力</h2><p>SpeedOnline 节点池按地区与线路类型分组，覆盖香港、东京、新加坡、洛杉矶、伦敦等常用出口。普通线路适合日常网页；旗舰与团队可使用 IPLC 专线与高带宽 VIP 节点，降低跨境拥塞时段的抖动。</p><h3>性能使用建议</h3><p>高峰期优先选择负载较低的专线，而不是盲目挑选距离最近的城市。测速请在客户端内完成，避免第三方网页测速把流量计入套餐额度。若目标站点有地区版权限制，请改用对应解锁节点，而不是叠加多层代理。</p></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><p>以下问题覆盖订阅、下载、设备与线路。展开即可阅读完整说明，便于对照官网套餐自行排查。</p><details><summary>SpeedOnline 是 VPN 还是机场订阅？</summary><p>SpeedOnline 以机场订阅方式交付节点，同时提供 VPN 形态的多端客户端。你得到的是可更新的节点列表与加密隧道，而不是单一固定 IP。官网同时提供套餐说明与客户端下载，二者配合使用。</p></details><details><summary>如何完成官方客户端下载并导入订阅？</summary><p>先在本页确认系统类型，再从用户中心获取安装包或配置。安装后粘贴订阅链接、更新节点，选择线路连接。不要使用来源不明的「破解加速器」，以免订阅泄露或被植入无关模块。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度网页与三台以内设备选基础版。需要原生流媒体、游戏专线或五台设备选旗舰版。工作室、实验室或多地同事共用、需要定制路由时选团队版。流量与设备上限以套餐列表为准。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>流量用尽后新请求无法加速，次月额度按套餐重置。同时在线超过 3/5/20 台限制时，新设备无法接入。可断开闲置会话，或升级到更高档套餐。</p></details><details><summary>是否支持流媒体解锁和游戏加速？</summary><p>基础版提供基础流媒体解锁。旗舰版强调全节点原生解锁，并包含 IPLC 游戏优化。实际可用性随平台策略变化，遇到验证页时请更换对应地区节点并更新订阅。</p></details><details><summary>公共网络下如何更稳妥地使用 SpeedOnline？</summary><p>先连接官方客户端，再登录邮箱、网盘与会议软件。开启系统代理或 TUN 模式，避免部分应用绕过隧道。公共 Wi-Fi 下不要安装他人提供的证书或描述文件。</p></details><details><summary>怎样联系官方而不是第三方代购？</summary><p>套餐、工单与客户端说明以本站为准。旗舰版含 7x24 优先工单，团队版配备专属客户经理。不要通过社交群里的不明链接付款或提交订阅地址。</p></details></div></section><section id=\"ads\"><div class=\"wrap\"><h2>合作与广告位</h2><div class=\"ad\"><p>SpeedOnline 官网提供品牌合作与文字广告位，面向网络工具评测、跨境办公资讯与合法 ent 技术媒体。合作请通过官方工单说明媒介与档期，不接受未审核的外链跳转包。</p></div><div class=\"ad\"><p>如需在团队版中开通定制路由或独立带宽说明，请在订阅后提交企业需求，由客户经理评估节点与合规边界。</p></div></div></section><section id=\"friends\"><div class=\"wrap\"><h2>友情链接</h2><p class=\"friends\"><a href=\"#intro\">SpeedOnline 简介</a><a href=\"#plans\">套餐说明</a><a href=\"#download\">官方下载</a><a href=\"#faq\">帮助中心</a><a href=\"#sitemap\">网站地图</a></p></div></section><section id=\"sitemap\"><div class=\"wrap\"><h2>网站地图</h2><p>本页为 SpeedOnline 官方单页站点，结构如下，便于检索与收录。</p><ul><li><a href=\"#top\">首页大标题</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">机场订阅套餐</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#nodes\">节点与加速</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">广告合作</a></li><li><a href=\"#friends\">友情链接</a></li></ul><p class=\"note\">XML 站点地图随官网发布策略更新，收录请以 canonical 地址 https://www.speedonline.com/ 为准。</p></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>SpeedOnline 官方网站 · VPN 梯子网络加速与机场客户端下载</p><p class=\"foot-links\"><a href=\"#top\">返回顶部</a><a href=\"#download\">官网下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></p><p>内容说明套餐、节点与客户端用途，供合法网络加速使用。保留品牌原意，不将本页作为攻击或未授权访问的教程。</p></div></footer>",
+          "hash": "d29a8ae8a9bc951cd06b04b481a087a26127a15033e195a2dc222e923cacda7e",
+          "seo": {
+            "title": "SpeedOnline 官网｜VPN 梯子网络加速与机场客户端下载",
+            "keywords": "SpeedOnline,SpeedOnline VPN,SpeedOnline机场,VPN梯子,网络加速器,机场订阅,客户端下载,官网下载,IPLC专线,流媒体解锁",
+            "description": "SpeedOnline 是面向跨境访问的高速 VPN 梯子与机场订阅服务官网，提供多端客户端下载、流媒体解锁与游戏加速节点，帮助用户稳定连接全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cyxxa.cn",
+    "host": "p-3944727710.cyxxa.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "cyxxa.cn",
+      "url": "https://cyxxa.cn/",
+      "label": "牧牛(MUNIU)",
+      "apex": "cyxxa.cn",
+      "kind": null,
+      "identity": "hhhgjpduk/page-e1151aeb0a67d453d0786efe"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2b0aa855b8e7db35ce3bb5b45552cf12619a307197c148a1e0562628499c48f7",
+    "sitemap.xml": "a02f72f647d7982217105b66d26469a07197f5ab2415fa17cbfaffc68a6470c7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "de5b8972466a8c46cff87bd6cc644c12a8158c6ad8e758c5c99fe5b34012b50c",
+    "robots.txt": "127d3f6ea417e90045f88cc4f83d9583cd813e282e718ce907424e75695c1eb8",
+    "b485075412d11b1b94628b2343758578.txt": "d6042c47e4e444fee9df9ed3f340cae6fc2b9479c75b65abd65dffb9ac2e89ab"
+  },
+  "revision": "fe40ac5411127451bd5c46893985bb2f2bdf63548edea58a8b7331ce6ec2f711"
+}
